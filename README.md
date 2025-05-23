@@ -8,15 +8,15 @@
 
 ***
 
-<picture>
+<a href="https://github.com/Duck8223/AICV_eyeDesease">
     <img align="center"  src="https://github-readme-stats-duc8235s-projects.vercel.app/api/pin/?username=Duck8223&repo=AICV_eyeDesease&show_icons=true&theme=highcontrast" />
-</picture>
-<picture>
+</a>
+<a href="https://github.com/Duck8223/AICV_30VietNamfood">
   <img align="center" src="https://github-readme-stats-duc8235s-projects.vercel.app/api/pin/?username=Duck8223&repo=AICV_30VietNamfood&show_icons=true&theme=highcontrast" />
-</picture>
-<picture>
+</a>
+<a href="https://github.com/Duck8223/XAI_3D_leafPotato">
   <img align="center" src="https://github-readme-stats-duc8235s-projects.vercel.app/api/pin/?username=Duck8223&repo=XAI_3D_leafPotato&show_icons=true&theme=highcontrast" />
-</picture>
+</a>
 
 
 <!---
